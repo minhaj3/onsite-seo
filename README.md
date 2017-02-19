@@ -133,7 +133,7 @@ OK. Yes. I know. This is not used yet. But you can!
 
 ### Why are there two steps of crawling and displaying the results?
 
-Phantomjs is not nodejs. There share some functionality but they are not the same.
+Phantomjs is not nodejs. They share some functionality but they are not the same.
 So we need these two steps.
 
 ### The single weight of my page are arbitrary
